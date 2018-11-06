@@ -1,0 +1,1 @@
+﻿# __Directoria de imagens__

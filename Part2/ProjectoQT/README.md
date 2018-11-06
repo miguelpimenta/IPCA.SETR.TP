@@ -1,0 +1,1 @@
+﻿# __Projecto em QT__

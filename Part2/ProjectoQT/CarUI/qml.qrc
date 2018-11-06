@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file alias="dashboard">Images/Artboard.png</file>
+        <file alias="blinkLeft">Images/BlinkLeft.png</file>
+        <file alias="blinkRight">Images/BlinkRight.png</file>
+        <file alias="marker">Images/Marker.png</file>
+        <file alias="wheel">Images/wheel.png</file>
+        <file alias="gas">Images/gas.png</file>
+        <file alias="temp">Images/temp.png</file>
+        <file alias="buzzer">Images/buzz.png</file>
+    </qresource>
+</RCC>
